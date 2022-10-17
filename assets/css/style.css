@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* The font family lits the order of fonts in the order we want. Putting the first font listed as priority.  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* The "display: inline-block" display list items horizontally instead of vertically. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Float left and float right are used to display a picture on the desired side you want */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Had to change . to a #, because I switched "class" to "id"  */
 #benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -95,7 +96,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* the color shows the font color */
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,7 +116,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* All the images that have the property of display: block starts on a new line and covers up the remaining available screen width */
 #benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -160,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* all the images are the same height at 200px */
 #search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +173,7 @@ p {
 #social-media-marketing img {
     max-height: 200px;
 }
-
+/* The margin-bottom gives the picture a 20px margin on the right side of the picture */
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +189,7 @@ p {
     font-size: 36px;
 }
 
+/* The padding was set to 30px all around to give the needed space for the footer */
 .footer {
     padding: 30px;
     clear: both;
