@@ -17,6 +17,10 @@ https://jpick77.github.io/Horiseon/
 
 # Screenshot of Changed Code
 
-![Alt text](./assets/images/html.pic.1.png "html.pic.1.png") 
+![Alt text](./assets/images/html.pic.1.png "html.pic.1.png")
 
+![Alt text](./assets/images/screenshot.webpage.1.png "Twebpage.1.png")
 
+![Alt text](./assets/images/screenshot.2.png "screenshot.2")
+
+![Alt text](./assets/images/screenshot.3.png "screenshot.3")
