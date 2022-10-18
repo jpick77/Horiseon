@@ -17,6 +17,6 @@ https://jpick77.github.io/Horiseon/
 
 # Screenshot of Changed Code
 
-![Alt text](assets\images\html.pic.1.png "html.pic.1.png") 
+![Alt text](./assets/images/html.pic.1.png "html.pic.1.png") 
 
 
