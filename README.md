@@ -17,6 +17,6 @@ https://jpick77.github.io/Horiseon/
 
 # Screenshot of Changed Code
 
-<img src=".\assets\images\html-file-1.png" alt="photo of changed code"> 
+![Alt text](assets\images\html.pic.1.png "html.pic.1.png") 
 
 
